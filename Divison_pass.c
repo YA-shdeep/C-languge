@@ -2,6 +2,7 @@
 void main()
 {
 int b,B ;
+printf("Enter your Boards Percentage");
 scanf("%d",&B);
 b = 1 ;
 switch (b)
